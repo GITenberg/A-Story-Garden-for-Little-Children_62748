@@ -1,5 +1,5 @@
 _repo: A-Story-Garden-for-Little-Children_62748
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   illustrator:
     agent_name: Young, Florence Liley
@@ -8,6 +8,9 @@ contributor:
     deathdate: 1974
     gutenberg_agent_id: '26003'
     url: http://www.gutenberg.org/2009/agents/26003
+covers:
+- cover_type: archival
+  image_path: 62748-h/images/cover1.png
 creator:
   author:
     agent_name: Lindsay, Maud
@@ -17,6 +20,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/6378
     wikipedia: https://en.wikipedia.org/wiki/Maud_McKnight_Lindsay
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/62748#A-Story-Garden-for-Little-Children
 gutenberg_issued: '2020-07-25'
 gutenberg_type: Text
 identifiers:
