@@ -1,0 +1,39 @@
+_repo: A-Story-Garden-for-Little-Children_62748
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Young, Florence Liley
+    alias: Liley, F. (Florence)
+    birthdate: 1872
+    deathdate: 1974
+    gutenberg_agent_id: '26003'
+    url: http://www.gutenberg.org/2009/agents/26003
+creator:
+  author:
+    agent_name: Lindsay, Maud
+    birthdate: 1874
+    deathdate: 1941
+    gutenberg_agent_id: '6378'
+    url: http://www.gutenberg.org/2009/agents/6378
+    wikipedia: https://en.wikipedia.org/wiki/Maud_McKnight_Lindsay
+description: ''
+gutenberg_issued: '2020-07-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '62748'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'Children''s stories'
+- !lcsh 'Picture books for children'
+- GITenberg
+tableOfContents: Little Sleepy Head -- The lovely moon -- The wind's fun -- The brown
+  birds -- The stick horse -- "Tickity-tock" -- The saucer pie -- Thimble biscuit
+  -- The wee nest -- The strawberry shortcake -- Good news -- The roll of bread --
+  Three guesses -- The snowball -- Santa Claus -- Ten pennies -- The lost doll --
+  Little Dog and Big Dog -- The little king's rabbits -- The snowman.
+title: A Story Garden for Little Children
+url: http://www.gutenberg.org/ebooks/62748
